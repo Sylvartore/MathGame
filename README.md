@@ -1,6 +1,6 @@
 ﻿# Designed and coded by:
 
-<a href="https://github.com/Sylvartore">Boning Yang</a> E-mail: sylvartore@gmail.com
+<a href="https://github.com/Sylvartore">Boning Yang</a> E-mail: sylvartore@gmail.com <br /> 
 <a href="https://github.com/lianggnail">Liang Wu</a> E-mail: 94liangwu@gmail.com
 
 # Task Completed:
